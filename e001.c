@@ -7,7 +7,7 @@ int main(int argc, char **argv)
   
   if (test == 1)
   {
-    printf("Now it is printing\n);
+    printf("Now it is printing\n"); // missing "
   }
  
  return 0;
